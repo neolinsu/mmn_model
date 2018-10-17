@@ -1,0 +1,146 @@
+avg_arrive_time: 2
+avg_serve_time: 6
+client_num: 20
+max_length: 15
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+curtime: 0.66985
+0 start being served at 0.66985
+curtime: 1.3397
+1 starts waitting at 1.3397
+curtime: 2.00955
+2 starts waitting at 2.00955
+curtime: 2.6794
+3 starts waitting at 2.6794
+curtime: 2.6794
+Server ID:0 is free
+0 left at 2.6794
+1 start being served at 2.6794
+curtime: 3.34925
+4 starts waitting at 3.34925
+curtime: 4.0191
+5 starts waitting at 4.0191
+curtime: 4.68895
+6 starts waitting at 4.68895
+curtime: 4.68895
+Server ID:0 is free
+1 left at 4.68895
+2 start being served at 4.68895
+curtime: 5.3588
+7 starts waitting at 5.3588
+curtime: 6.02865
+8 starts waitting at 6.02865
+curtime: 6.6985
+9 starts waitting at 6.6985
+curtime: 6.6985
+Server ID:0 is free
+2 left at 6.6985
+3 start being served at 6.6985
+curtime: 7.36835
+10 starts waitting at 7.36835
+curtime: 8.03821
+11 starts waitting at 8.03821
+curtime: 8.70806
+12 starts waitting at 8.70806
+curtime: 8.70806
+Server ID:0 is free
+3 left at 8.70806
+4 start being served at 8.70806
+curtime: 9.37791
+13 starts waitting at 9.37791
+curtime: 10.0478
+14 starts waitting at 10.0478
+curtime: 10.7176
+15 starts waitting at 10.7176
+curtime: 10.7176
+Server ID:0 is free
+4 left at 10.7176
+5 start being served at 10.7176
+curtime: 11.3875
+16 starts waitting at 11.3875
+curtime: 12.0573
+17 starts waitting at 12.0573
+curtime: 12.7272
+18 starts waitting at 12.7272
+curtime: 12.7272
+Server ID:0 is free
+5 left at 12.7272
+6 start being served at 12.7272
+curtime: 13.397
+19 starts waitting at 13.397
+curtime: 14.7367
+Server ID:0 is free
+6 left at 14.7367
+7 start being served at 14.7367
+curtime: 16.7463
+Server ID:0 is free
+7 left at 16.7463
+8 start being served at 16.7463
+curtime: 18.7558
+Server ID:0 is free
+8 left at 18.7558
+9 start being served at 18.7558
+curtime: 20.7654
+Server ID:0 is free
+9 left at 20.7654
+10 start being served at 20.7654
+curtime: 22.7749
+Server ID:0 is free
+10 left at 22.7749
+11 start being served at 22.7749
+curtime: 24.7845
+Server ID:0 is free
+11 left at 24.7845
+12 start being served at 24.7845
+curtime: 26.794
+Server ID:0 is free
+12 left at 26.794
+13 start being served at 26.794
+curtime: 28.8036
+Server ID:0 is free
+13 left at 28.8036
+14 start being served at 28.8036
+curtime: 30.8131
+Server ID:0 is free
+14 left at 30.8131
+15 start being served at 30.8131
+curtime: 32.8227
+Server ID:0 is free
+15 left at 32.8227
+16 start being served at 32.8227
+curtime: 34.8322
+Server ID:0 is free
+16 left at 34.8322
+17 start being served at 34.8322
+curtime: 36.8418
+Server ID:0 is free
+17 left at 36.8418
+18 start being served at 36.8418
+curtime: 38.8513
+Server ID:0 is free
+18 left at 38.8513
+19 start being served at 38.8513
+curtime: 40.8609
+Server ID:0 is free
+19 left at 40.8609
+average number of customers in queue: 6.22951
+average delay in the queue: 13.397
+utilisation of server: 0.983607

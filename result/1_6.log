@@ -1,0 +1,73 @@
+avg_arrive_time: 1
+avg_serve_time: 6
+client_num: 20
+max_length: 15
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+curtime: 0.4048
+0 start being served at 0.4048
+curtime: 0.809599
+1 starts waitting at 0.809599
+curtime: 1.2144
+2 starts waitting at 1.2144
+curtime: 1.6192
+3 starts waitting at 1.6192
+curtime: 2.024
+4 starts waitting at 2.024
+curtime: 2.4288
+5 starts waitting at 2.4288
+curtime: 2.8336
+6 starts waitting at 2.8336
+curtime: 2.8336
+Server ID:0 is free
+0 left at 2.8336
+1 start being served at 2.8336
+curtime: 3.2384
+7 starts waitting at 3.2384
+curtime: 3.6432
+8 starts waitting at 3.6432
+curtime: 4.048
+9 starts waitting at 4.048
+curtime: 4.45279
+10 starts waitting at 4.45279
+curtime: 4.85759
+11 starts waitting at 4.85759
+curtime: 5.26239
+12 starts waitting at 5.26239
+curtime: 5.26239
+Server ID:0 is free
+1 left at 5.26239
+2 start being served at 5.26239
+curtime: 5.66719
+13 starts waitting at 5.66719
+curtime: 6.07199
+14 starts waitting at 6.07199
+curtime: 6.47679
+15 starts waitting at 6.47679
+curtime: 6.88159
+16 starts waitting at 6.88159
+curtime: 7.28639
+17 starts waitting at 7.28639
+curtime: 7.69119
+18 starts waitting at 7.69119
+average number of customers in queue: 7.10526
+average delay in the queue: 0.357176
+utilisation of server: 0.631579
