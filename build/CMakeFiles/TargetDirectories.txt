@@ -1,3 +1,0 @@
-/home/neolin/MMN/build/CMakeFiles/rebuild_cache.dir
-/home/neolin/MMN/build/CMakeFiles/edit_cache.dir
-/home/neolin/MMN/build/CMakeFiles/mmn_model.dir

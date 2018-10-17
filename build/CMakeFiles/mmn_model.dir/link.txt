@@ -1,1 +1,0 @@
-/usr/bin/c++  -g -Wall -O2  -rdynamic CMakeFiles/mmn_model.dir/src/client.cpp.o CMakeFiles/mmn_model.dir/src/event.cpp.o CMakeFiles/mmn_model.dir/src/math_lib.cpp.o CMakeFiles/mmn_model.dir/src/mmn_model.cpp.o CMakeFiles/mmn_model.dir/src/server.cpp.o  -o mmn_model 
